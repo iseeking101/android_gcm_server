@@ -1,7 +1,0 @@
-{
-    "mongodbUrl": "mongodb://dbuser:1234@ds045064.mongolab.com:45064/android-gcm-push-db",
-
-    "gcm": {
-        "apiKey": "AIzaSyD7ri5BkzqDX4ZzZDK9XfSnAjpw-Md8Ptc"
-    }
-}
