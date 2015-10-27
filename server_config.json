@@ -1,7 +1,7 @@
 {
-    "mongodbUrl": "mongodb://<db_username>:<db_password>@<MongoDB Host>/<DB>",
+    "mongodbUrl": " mongodb://dbuser:1234@ds045064.mongolab.com:45064/android-gcm-push-db",
 
     "gcm": {
-        "apiKey": "<PUT YOUR KEY RETRIEVED FROM GOOGLE API CONSOLE HERE>"
+        "apiKey": "AIzaSyD7ri5BkzqDX4ZzZDK9XfSnAjpw-Md8Ptc"
     }
 }
