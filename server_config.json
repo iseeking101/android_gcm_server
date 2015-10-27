@@ -1,0 +1,7 @@
+{
+    "mongodbUrl": "mongodb://<db_username>:<db_password>@<MongoDB Host>/<DB>",
+
+    "gcm": {
+        "apiKey": "<PUT YOUR KEY RETRIEVED FROM GOOGLE API CONSOLE HERE>"
+    }
+}
